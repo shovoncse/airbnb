@@ -13,4 +13,4 @@ const useRegisterModal = create<RegisterModalStore>((set) => ({
 }));
 
 
-export default useRegisterModal;
+export default useRegisterModal; 
